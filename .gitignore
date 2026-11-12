@@ -1,0 +1,19 @@
+# Compiled binaries & object files
+*.exe
+*.o
+*.obj
+
+# Compressed archives
+*.zip
+*.tar
+*.gz
+
+# Temporary or test log dumps
+run_output_*.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
